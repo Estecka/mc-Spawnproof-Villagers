@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "spawnproof-villagers",
+	"version": "${version}",
+	"name": "Spawn-Proof Villagers",
+	"description": "Prevents hostile mob-spawn around villagers, like for players.",
+	"authors": [
+		"Estecka"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/spawnproof-villagers",
+		"sources": "https://github.com/Estecka/mc-Spawnproof-Villagers"
+	},
+	"license": "MIT",
+	"icon": "assets/spawnproof-villagers/icon-x32.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+		]
+	},
+	"mixins": [
+		"spawnproof-villagers.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.7",
+		"java": ">=17"
+	},
+	"recommends": {
+		"minecraft": "^1.19.4"
+	}
+}
