@@ -1,6 +1,6 @@
 # Spawn-Proof Villagers
 
-Prevents the spawning of mobs near villagers, as if they were players.
-The spawn-proofing radius is the same as for players.
+Prevents hostile mob spawns near villagers, in the same way players.
 
-Iron Golems and Cats are not prevented from spawning.
+The spawn-proofing radius defaults to 24 (same as players). It can be configured in the gamerules.
+The spawn-proofing radius of players remains unaffected.
