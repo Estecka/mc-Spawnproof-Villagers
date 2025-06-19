@@ -1,5 +1,5 @@
 {
-	"gamerule.category.spawnproof-villagers": "Allay, Behave!",
+	"gamerule.category.spawnproof-villagers": "Spawn-Proofed Villagers",
 	"gamerule.spawnproof-villagers.spawnproofing.range": "Villager spawn-proofing radius",
 	"gamerule.spawnproof-villagers.spawnproofing.range.description": "Prevents hostile mobs from spawning this close to villagers."
 }
